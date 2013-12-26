@@ -1,0 +1,8 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td{margin:0;padding:0;}
+body{background:#F8F8F8;}
+.wrapper{width:840px;height:470px;margin:20px auto 0;padding:36px 70px;border:solid 1px #E7E7E7;border-radius:5px;box-shadow:0 1px 2px rgba(189, 189, 189, 0.11),0 -1px 2px rgba(162, 163, 165, 0.03);background:#FFF;}
+.girl{float:left;width:260px;height:470px;background:url("../image/girl.png");}
+.error-wrapper{float:left;width:580px;height:190px;padding-top:90px;color:#666;}
+.error{margin:0 auto;width:450px;height:200px;background:url('../image/404.png') no-repeat;}
+.pick{float:left;width:580px;padding-top:60px;text-align:center;}
+.pick a{display:inline-block;width:100px;height:30px;background:#4FBBD6;line-height:30px;color:white;}
